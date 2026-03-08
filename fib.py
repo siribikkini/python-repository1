@@ -14,4 +14,8 @@ for i in range(n):
 
 
 
+write
+
+
     
+
