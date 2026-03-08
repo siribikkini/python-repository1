@@ -430,5 +430,11 @@ print(result)  # Output: [10, 15, 30]
 
 
 
+functions usesful
+
+
+
+
+
 
 
